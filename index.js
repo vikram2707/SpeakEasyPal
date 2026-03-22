@@ -11,18 +11,23 @@ console.log("Choose a role-play scenario:");
 console.log("1. Restaurant");
 console.log("2. Interview");
 console.log("3. Introduction");
+console.log("4. Exit");
 
-const choice = readline.question("Enter your choice (1-3): ");
+const choice = readline.question("Enter your choice (1-4): ");
 
 switch (choice) {
   case "1":
     restaurant.run();
     break;
+    //At the end of the scenario, the user will be prompted to do any other scenario 
   case "2":
     interview.run();
     break;
   case "3":
     introduction.run();
+    break;
+  case "4":
+    console.log("Thank you for using SpeakEasyPal! Goodbye!");
     break;
   default:
     console.log("Invalid choice. Please restart and pick 1-3.");

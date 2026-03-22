@@ -7,8 +7,8 @@ function run() {
   const answer = readline.question("You: ");
   console.log(`✅ Great! You said: "${answer}"`);
 
-  console.log("💡 Tip: Try saying 'Can I have a pizza, please?' for natural conversation.");
-  console.log("🌟 Encouragement: Well done! You're speaking politely and clearly.\n");
+  console.log("💡 Tip: Try saying 'Can I have a bottle of pepsi, please?' for natural conversation.");
+  console.log("🌟 Encouragement: i am not listening but you are doing great!");
 }
 
 module.exports = { run };
