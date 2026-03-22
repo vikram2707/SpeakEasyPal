@@ -1,8 +1,8 @@
 # SpeakEasyPal
 
-> “Speak easily, learn freely.”
+> “Speak easily, learn freely, Enjoy!”
 
-SpeakEasyPal is an AI‑powered language learning companion created by **Vikramaditya (age 9)** with Copilot’s help.  
+SpeakEasyPal is an AI‑powered language learning companion created by **Vikramaditya (age 9)**.  
 It helps learners practice speaking through role‑play scenarios, pronunciation tips, grammar guidance, and encouragement.
 
 ---
