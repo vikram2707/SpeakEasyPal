@@ -1,0 +1,14 @@
+{
+  "name": "speakeasypal",
+  "version": "1.0.0",
+  "description": "SpeakEasyPal - AI language learning companion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vikramaditya (age 9)",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
